@@ -1,0 +1,12 @@
+#+title: QUICK LINKS
+#+author: Neelansh Sharma
+
+
+#+ATTR_ORG: :width 350
+#+ATTR_HTML: :width="50px"
+
+* Description
+While surfing the internet, we need to save links which are necessary to fetch the relevant information but putting them all in the same bookmarks folder can create a mess, so I made this extension in order to save links which you need in the near future but not for a longer period of time although you can use this as a replacement to your bookmarks since this extension enables you to open links with keyboard shortcuts ,which is much faster.
+
+* Main Feature
+First 9 links in the link list can be opened with the key combination Alt+Shift+(link position)

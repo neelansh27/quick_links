@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0px;
+  padding: 10px;
+  min-width: 410px;
+  max-width: 410px;
+}
+input {
+  width: 100%;
+  padding: 7px;
+  box-sizing: border-box;
+  margin-bottom: 8px;
+}
+#save,
+#save-tab {
+  font-weight: 600;
+  background-color: gold;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 06px;
+}
+#delall {
+  font-weight: 600;
+  color: gold;
+  background-color: black;
+  border: 2px solid gold;
+  padding: 08px;
+  border-radius: 06px;
+}
+div ul {
+  padding-left: 3px;
+  color: gold;
+  margin: 3px;
+}
+li a {
+  font-size: 15px;
+  color: gold;
+  text-decoration: none;
+}
+a {
+  word-break: break-all;
+  padding-right: 94px;
+}
+.rb {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+  right: 10px;
+  background-color: red;
+  color: white;
+  border: 0px solid;
+  border-radius: 3px;
+}
+.down {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+  right: 42px;
+  background-color: blue;
+  color: white;
+  border: 0px solid;
+  border-radius: 3px;
+}
+.up {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+  right: 90px;
+  background-color: limegreen;
+  color: white;
+  border: 0px solid;
+  border-radius: 3px;
+}
